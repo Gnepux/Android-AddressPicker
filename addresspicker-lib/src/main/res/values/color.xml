@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color> <!-- 透明-->
+    <color name="main_blue">#138AFF</color>
+    <color name="font_color">#333333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_line">#C9C9C9</color>
+
+</resources>

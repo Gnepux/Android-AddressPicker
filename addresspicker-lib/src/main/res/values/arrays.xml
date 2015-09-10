@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="province_list">
+        <item>江苏省</item>
+    </string-array>
+
+    <string-array name="city_list">
+        <item>南京市</item>
+        <item>无锡市</item>
+        <item>镇江市</item>
+        <item>苏州市</item>
+        <item>南通市</item>
+        <item>扬州市</item>
+        <item>盐城市</item>
+        <item>徐州市</item>
+        <item>淮安市</item>
+        <item>连云港市</item>
+        <item>常州市</item>
+        <item>泰州市</item>
+        <item>宿迁市</item>
+    </string-array>
+
+    <string-array name="nanjing_district">
+        <item>玄武区</item>
+        <item>白下区</item>
+        <item>秦淮区</item>
+        <item>建邺区</item>
+        <item>鼓楼区</item>
+        <item>下关区</item>
+        <item>栖霞区</item>
+        <item>雨花台区</item>
+        <item>浦口区</item>
+        <item>六合区</item>
+        <item>江宁区</item>
+        <item>溧水区</item>
+        <item>高淳区</item>
+    </string-array>
+    
+    <string-array name="wuxi_district">
+        <item>崇安区</item>
+        <item>南长区</item>
+        <item>北塘区</item>
+        <item>锡山区</item>
+        <item>惠山区</item>
+        <item>滨湖区</item>
+        <item>无锡新区</item>
+        <item>江阴市</item>
+        <item>宜兴市</item>
+    </string-array>
+    
+    <string-array name="zhenjiang_district">
+        <item>京口区</item>
+        <item>润州区</item>
+        <item>丹徒区</item>
+        <item>丹阳市</item>
+        <item>扬中市</item>
+        <item>句容市</item>
+    </string-array>
+
+    <string-array name="suzhou_district">
+        <item>沧浪区</item>
+        <item>平江区</item>
+        <item>金阊区</item>
+        <item>虎丘区</item>
+        <item>吴中区</item>
+        <item>相城区</item>
+        <item>常熟市</item>
+        <item>张家港市</item>
+        <item>昆山市</item>
+        <item>吴江区</item>
+        <item>太仓市</item>
+        <item>工业园区</item>
+    </string-array>
+    
+    <string-array name="nantong_district">
+        <item>港闸区</item>
+        <item>崇川区</item>
+        <item>南通经济技术开发区</item>
+        <item>海安县</item>
+        <item>如皋市</item>
+        <item>如东县</item>
+        <item>通州区</item>
+        <item>海门市</item>
+        <item>启东市</item>
+    </string-array>
+    
+    <string-array name="yangzhou_district">
+        <item>广陵区</item>
+        <item>邗江区</item>
+        <item>维扬区</item>
+        <item>宝应县</item>
+        <item>仪征市</item>
+        <item>高邮市</item>
+        <item>江都区</item>
+        <item>开发区</item>
+    </string-array>
+
+    <string-array name="yancheng_district">
+        <item>亭湖区</item>
+        <item>盐都区</item>
+        <item>响水县</item>
+        <item>滨海县</item>
+        <item>阜宁县</item>
+        <item>射阳县</item>
+        <item>建湖县</item>
+        <item>大丰市</item>
+        <item>东台市</item>
+    </string-array>
+
+    <string-array name="xuzhou_district">
+        <item>鼓楼区</item>
+        <item>云龙区</item>
+        <item>九里区</item>
+        <item>贾汪区</item>
+        <item>泉山区</item>
+        <item>丰县</item>
+        <item>沛县</item>
+        <item>铜山区</item>
+        <item>睢宁县</item>
+        <item>新沂市</item>
+        <item>邳州市</item>
+    </string-array>
+    
+    <string-array name="huaian_district">
+        <item>清河区</item>
+        <item>楚州区</item>
+        <item>淮阴区</item>
+        <item>清浦区</item>
+        <item>涟水县</item>
+        <item>洪泽县</item>
+        <item>盱眙县</item>
+        <item>金湖县</item>
+    </string-array>
+    
+    <string-array name="lianyungang_district">
+        <item>新浦区</item>
+        <item>海州区</item>
+        <item>连云区</item>
+        <item>赣榆县</item>
+        <item>东海县</item>
+        <item>灌云县</item>
+        <item>灌南县</item>
+    </string-array>
+
+    <string-array name="changzhou_district">
+        <item>天宁区</item>
+        <item>钟楼区</item>
+        <item>新北区</item>
+        <item>戚墅堰区</item>
+        <item>武进区</item>
+        <item>金坛市</item>
+        <item>溧阳市</item>
+    </string-array>
+
+    <string-array name="taizhou_district">
+        <item>海陵区</item>
+        <item>高港区</item>
+        <item>兴化市</item>
+        <item>靖江市</item>
+        <item>泰兴市</item>
+        <item>姜堰市</item>
+    </string-array>
+
+    <string-array name="suqian_district">
+        <item>宿城区</item>
+        <item>宿豫区</item>
+        <item>沭阳县</item>
+        <item>泗阳县</item>
+        <item>泗洪县</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    
+    <!--控件默认高度和宽度-->
+    <dimen name="layout_width_default">48dp</dimen>
+    <dimen name="layout_height_default">48dp</dimen>
+    <!--每个控件之间建议的间隔-->
+    <dimen name="layout_height_space">8dp</dimen>
+    <dimen name="layout_width_padding_default">16dp</dimen>
+
+    <dimen name="text_size_smaller">12sp</dimen>
+    <!--较小的文字大小-->
+    <dimen name="text_size_small">14sp</dimen>
+    <!-- 默认的文字大小-->
+    <dimen name="text_size_normal">16sp</dimen>
+    <!-- 大的文字大小-->
+    <dimen name="text_size_large">18sp</dimen>
+    <!-- 较大的文字大小，默认button字体大小 -->
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <!-- 最大的文字大小-->
+    <dimen name="text_size_xxlarge">22sp</dimen>
+
+
+</resources>
+
